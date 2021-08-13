@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfTriangle", "HalfTriangl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfTriangleWithRuntimeSymbol", "HalfTriangleWithRuntimeSymbol\HalfTriangleWithRuntimeSymbol.csproj", "{705B5F48-5D79-4EBE-9099-8E0ADA8BE9B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfTriangleWithCombinationOfSymbol", "HalfTriangleWithCombinationOfSymbol\HalfTriangleWithCombinationOfSymbol.csproj", "{F577FB4A-A76A-4739-8B20-FDA36EE698C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{705B5F48-5D79-4EBE-9099-8E0ADA8BE9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{705B5F48-5D79-4EBE-9099-8E0ADA8BE9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{705B5F48-5D79-4EBE-9099-8E0ADA8BE9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F577FB4A-A76A-4739-8B20-FDA36EE698C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F577FB4A-A76A-4739-8B20-FDA36EE698C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F577FB4A-A76A-4739-8B20-FDA36EE698C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F577FB4A-A76A-4739-8B20-FDA36EE698C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
